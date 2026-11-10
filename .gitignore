@@ -1,0 +1,5 @@
+node_modules/
+.vercel/
+evidence/
+*.zip
+*.tar.gz
